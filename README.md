@@ -14,7 +14,7 @@
 💻 **Passions & Interests:**
 - 🤖 Machine Learning & Artificial Intelligence  
 - 📐 Mathematical Modeling & Simulations  
-- 📯 French Horn 
+- 📯 French Horn & Music
 - 🎙️ Acoustics and spatial audio processing  
 
 🌱 **Currently learning:**
@@ -22,7 +22,7 @@
 - ⚡ JAX for high-performance ML  
 
 🔍 **Seeking research opportunities** in:
-- AI acoustics  
+- Machine Learning for Acoustics  
 - Geometric deep learning
 - Computer vision  
 
