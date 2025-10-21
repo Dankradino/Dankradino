@@ -29,9 +29,6 @@
 🚀 **Recent Project about Physics-Informed Neural Networks for scattering field simulation (submitted to ICASSP 2026):**
 - [Acoustic Scattering PINN](https://github.com/Dankradino/Acoustic-Scattering-PINN)  
 
----
 
-### 📊 GitHub Stats
-![Tancrède's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&theme=radical)
 
 
