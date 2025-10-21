@@ -14,7 +14,7 @@
 💻 **Passions & Interests:**
 - 🤖 Machine Learning & Artificial Intelligence  
 - 📐 Mathematical Modeling & Simulations  
-- 🎶 French horn enthusiast and music lover 📯🎵  
+- 📯 French Horn 
 - 🎙️ Acoustics and spatial audio processing  
 
 🌱 **Currently learning:**
