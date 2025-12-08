@@ -9,7 +9,7 @@
 
 # Hi, I'm Tancrède! 👋
 
-🎓 Currently an engineering student at **Telecom Paris** and **MVA, ENS Paris-Saclay**, specializing in **Machine Learning**, **Deep Learning**, and **Mathematical Modeling**.
+🎓 Currently an engineering student at **Telecom Paris** and **MVA, ENS Paris-Saclay**, specializing in **Machine Learning**, **Deep Learning**, and **Mathematical Modeling** especially for **audio**.
 
 💻 **Passions & Interests:**
 - 🤖 Machine Learning & Artificial Intelligence  
