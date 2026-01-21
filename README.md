@@ -26,7 +26,7 @@
 - Geometric deep learning
 - Computer vision  
 
-🚀 **Recent Project about Physics-Informed Neural Networks for scattering field simulation (submitted to ICASSP 2026):**
+🚀 **Recent Project about Physics-Informed Neural Networks for scattering field simulation (accepted to ICASSP 2026):**
 - [Acoustic Scattering PINN](https://github.com/Dankradino/Acoustic-Scattering-PINN)  
 
 
